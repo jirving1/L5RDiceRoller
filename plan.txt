@@ -1,0 +1,19 @@
+Index each face of ring and skill dice. 
+
+Write functions to roll dice.
+
+    One to roll a die, one to add to a pool, one to post. 
+        if an exploding face is added to the pool roll another die
+
+        maybe different function for either die type?
+
+        
+
+        Application ID
+            1450938769602646109
+
+        Public Key:
+            c55797fe2e1db39939103743c7b5d753a2a8d81c3d38a5a5df1765685b1617d2
+
+        Token:
+            
